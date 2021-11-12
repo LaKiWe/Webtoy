@@ -1,7 +1,3 @@
-// Package WebToy
-// Dynamic router features:
-// Trie tree;
-// expression
 package WebToy
 
 import (
