@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../gee/.idea/gee.iml" filepath="$PROJECT_DIR$/../gee/.idea/gee.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Webtoy/.idea/WebToy.iml" filepath="$PROJECT_DIR$/../Webtoy/.idea/WebToy.iml" />
     </modules>
   </component>
 </project>
